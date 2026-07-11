@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0262-trips-and-users](https://github.com/harshituwu/Codeslayer/tree/master/0262-trips-and-users) |
 | [0584-find-customer-referee](https://github.com/harshituwu/Codeslayer/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/harshituwu/Codeslayer/tree/master/0596-classes-with-at-least-5-students) |
 | [0608-tree-node](https://github.com/harshituwu/Codeslayer/tree/master/0608-tree-node) |
