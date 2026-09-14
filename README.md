@@ -16,4 +16,5 @@
 | [1251-average-selling-price](https://github.com/harshituwu/Codeslayer/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/harshituwu/Codeslayer/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/harshituwu/Codeslayer/tree/master/1341-movie-rating) |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/harshituwu/Codeslayer/tree/master/1633-percentage-of-users-attended-a-contest) |
 <!---LeetCode Topics End-->
